@@ -1,0 +1,8 @@
+T:\visual\Examen1Programacion\Examen1Programacion\bin\Debug\Examen1Programacion.exe.config
+T:\visual\Examen1Programacion\Examen1Programacion\bin\Debug\Examen1Programacion.exe
+T:\visual\Examen1Programacion\Examen1Programacion\bin\Debug\Examen1Programacion.pdb
+T:\visual\Examen1Programacion\Examen1Programacion\obj\Debug\Examen1Programacion.csproj.AssemblyReference.cache
+T:\visual\Examen1Programacion\Examen1Programacion\obj\Debug\Examen1Programacion.csproj.SuggestedBindingRedirects.cache
+T:\visual\Examen1Programacion\Examen1Programacion\obj\Debug\Examen1Programacion.csproj.CoreCompileInputs.cache
+T:\visual\Examen1Programacion\Examen1Programacion\obj\Debug\Examen1Programacion.exe
+T:\visual\Examen1Programacion\Examen1Programacion\obj\Debug\Examen1Programacion.pdb
